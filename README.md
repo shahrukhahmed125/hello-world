@@ -11,4 +11,4 @@ following commands are to pass in terminal on vs code:
 --4 git remote
 --4 git push
 
-
+These commands are working properly. 
